@@ -1,5 +1,5 @@
 # hello-world
 
-Hi, everyone!
+Hi Humans
 
-I'm Zhuohao Chen, a novel programmer, hoping to improving with you here!
+I'm Zhuohao Chen, a novel programmer, hoping to improve with everyone here!
